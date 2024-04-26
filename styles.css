@@ -32,7 +32,7 @@ body {
     transition: 250ms;
     left: calc(50vw - 205px);
     bottom: 25%;
-    box-shadow: 0 5px 10px #222;
+    box-shadow: 0 5px 10px #222222;
 }
 
 .album-cover {
